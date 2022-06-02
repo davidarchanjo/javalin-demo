@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "javalin-demo",
+            "request": "launch",
+            "mainClass": "io.davidarchanjo.JavalinDemoApplication",
+            "projectName": "spring-boot-demo"
+        }
+    ]
+}
